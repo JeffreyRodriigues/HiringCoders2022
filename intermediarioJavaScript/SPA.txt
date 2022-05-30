@@ -1,0 +1,22 @@
+SPA (Single Page Application)
+
+Progressive Web Apps (PWA)
+
+• Progressivo: Funcionando para qualquer usuário em qualquer navegadores escolhido.
+• Responsivo: Adequando-se a qualquer formato, seja ele desktop, celular, tablet, etc.
+• Independente de conectividade: Aprimorando através de Service Workers para trabalhar offline ou com conexão limitada.
+• Semelhante a Aplicativos: Deve ter interface similiar a um app para usuários, oferecendo os mesmos recursos independente do dispositivo.
+• Sincronizado: Mantendo-se atualizado constantemente pelo Service Workers.
+• Seguro: Sempre com conexão(quando disponível) via HTTPS.
+• Reenvolvente: Deve gerar engajamento através de notificações PUSH.
+• Instalável: Possibilidade de "guardar" o aplicativo sem necessariamente instalá-lo.
+• Linkável: Facilmente compartilhável com um link, reduzindo o atrito das lojas de aplicativos.
+
+Especificações Webcomponentes
+
+• HTML TEMPLATE: Possibilita a criação de fragmentos HTML que podem ser invocados sempre que ncessário.
+• Custom Elements: Capacidade de criar componentes customizados.
+• Shadow DOM: Estilos e diretivas globais ficam encapsulados, ou seja, cada componente não é capaz de interferir nos demais.
+• ES MODULES: Possibilidade de carregar módulos nativamente.
+
+Capivara.JS
